@@ -2301,4 +2301,4 @@
 "%ASA-7","776302","CTS Policy: Unknown security-group tag sgt referenced in policies",
 "%ASA-7","776307","CTS Policy: Security-group name for security-group tag sgt renamed from old_sgname' to 'new_sgname'",
 "%ASA-7","776308","CTS Policy: Previously unknown security-group tag sgt is now mapped to security-group name 'sgname'",
-"%ASA-7","785001","Clustering: Ownership for existing flow from <in_interface>:<src_ip_addr>/<src_port> to <out_interface>:<dest_ip_addr>/<dest_port> moved from unit <old-owner-unit-id> at site <old-site-id> to <new-owner-unit-id> at site <old-site-id> due to <reason>."
+"%ASA-7","785001","Clustering: Ownership for existing flow from <in_interface>:<src_ip_addr>/<src_port> to <out_interface>:<dest_ip_addr>/<dest_port> moved from unit <old-owner-unit-id> at site <old-site-id> to <new-owner-unit-id> at site <old-site-id> due to <reason>.",
